@@ -3,7 +3,7 @@ Simple bash tool to extract target subdomains + URLs from Wayback Machine.
 
 
 
-## Install
+## Install - Linux enviroment
 
 git clone https://github.com/osamahamad/archivesuburls
 
