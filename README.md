@@ -7,7 +7,7 @@ Simple bash tool to extract target subdomains + URLs from Wayback Machine.
 
 git clone https://github.com/osamahamad/archivesuburls
 
-cd archivesuburls.sh target.com 
+cd archivesuburls
 
 chmod +x archivesuburls.sh
 
