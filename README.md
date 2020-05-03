@@ -26,7 +26,7 @@ Result > target.com folder created > 2 files inside the folder, one for urls -->
   
 
 ```
-./archivesuburls.sh target.com time
+./archivesuburls.sh target.com time 600
 ```
 
 
